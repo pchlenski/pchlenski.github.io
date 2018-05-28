@@ -1,3 +1,1 @@
-# pchlenski.github.io
-# pchlenski.github.io
-# pchlenski.github.io
+This is the repository for the chlenski.com website.
