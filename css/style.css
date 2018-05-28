@@ -9,6 +9,7 @@
   padding-top: 200px;
   color: white;
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  border-bottom: 2px solid white;
 }
 
 #head h3 {
@@ -19,8 +20,9 @@
 }
 
 #head a {
-  border: 1px solid white;
+  border: 2px solid white;
   padding: 20px;
   color: white;
   text-decoration: none;
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
