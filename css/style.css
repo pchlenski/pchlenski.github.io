@@ -1,8 +1,26 @@
-h1 {
+#head {
+  background-color: black;
+  text-align: center;
+  padding-bottom: 200px;
+  width: 100%;
+}
+
+#head h1 {
+  padding-top: 200px;
+  color: white;
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
 
-h3 {
+#head h3 {
+  color: #FFAAAA;
   font-family: 'EB Garamond', Garamond, serif;
-  color: red;
+  font-weight: normal;
+  padding-bottom: 50px;
+}
+
+#head a {
+  border: 1px solid white;
+  padding: 20px;
+  color: white;
+  text-decoration: none;
 }
