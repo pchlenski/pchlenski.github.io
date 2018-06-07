@@ -30,6 +30,11 @@ body {
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
+  text-align: justify;
+}
+
+#name h4 a {
+  color: black;
 }
 
 #links a {
