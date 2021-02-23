@@ -34,7 +34,7 @@ body {
 }
 
 #name h4 a {
-  color: black;
+  color: #111111;
 }
 
 #links a {
@@ -42,17 +42,17 @@ body {
   display: inline-block;
   width: 100px;
   padding: 10px;
-  border: 2px solid black;
+  border: 2px solid #111111;
 }
 
 #links a {
-  color: black;
+  color: #111111;
   text-decoration: none;
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
 #links a:hover {
-  border: 3px solid black;
+  border: 3px solid #111111;
   padding: 9px;
 }
