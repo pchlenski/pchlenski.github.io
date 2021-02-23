@@ -1,6 +1,6 @@
 body {
-  background-color: white;
-  color: black;
+  background-color: #fffff8;
+  color: #111111;
   text-align: center;
 }
 
@@ -17,7 +17,7 @@ body {
   font-family: 'EB Garamond', Garamond, serif;
   font-size: 72px;
   margin: 0;
-  text-decoration: underline red;
+  text-decoration: underline #be1e2d;
 }
 
 #name h4 {
