@@ -13,16 +13,13 @@ body {
 #name {
   margin-top: 100px;
   margin-bottom: 100px;
-}
-
-#name h1 {
   font-size: 80px;
   font-weight: normal;
   margin: 0;
   text-decoration: underline #be1e2d;
 }
 
-#name h4 {
+#body {
   font-size: 16px;
   font-weight: normal;
   padding-top: 0;
