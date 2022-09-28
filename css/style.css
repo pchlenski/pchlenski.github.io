@@ -15,7 +15,7 @@ body {
   text-decoration: underline #be1e2d;
 }
 
-#body h1 {
+h1 {
   font-size: 36px;
   font-weight: bold;
 }
