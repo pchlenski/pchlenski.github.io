@@ -35,15 +35,18 @@ h1 {
   display: inline-block;
   width: 476px;
   padding-left: 10px;
-  padding-right: auto;
+  padding-right: 10px;
   border: 2px solid #111111;
   color: #111111;
   text-decoration: none;
   margin: 10px;
   margin-right: 100%;
+  text-align: center;
 }
 
 #links a:hover {
   border: 3px solid #111111;
-  padding: 9px;
+  padding-left: 9px;
+  padding-right: 9px;
+  margin: 9px;
 }
